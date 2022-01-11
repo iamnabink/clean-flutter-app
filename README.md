@@ -4,27 +4,27 @@
 ![Flutter Version](https://img.shields.io/static/v1?label=flutter&message=2.5.1&color=42a5f5)
 ![Null Safety](https://img.shields.io/static/v1?label=null-safety&message=done&color=success)
 
-# **4Dev Flutter - Enquetes para Programadores**
+# **4Dev Flutter - Polls for Programmers**
 
-[![alt text](./requirements/assets/course-logo.png "Link para o treinamento")](https://www.udemy.com/course/flutter-com-mango/?referralCode=4595D68027AC351A7454)
+[![alt text](./requirements/assets/course-logo.png "Link to training")](https://www.udemy.com/course/flutter-com-mango/?referralCode=4595D68027AC351A7454)
 
 ---
 
-## [**Link para o curso completo**](https://www.udemy.com/course/flutter-com-mango/?referralCode=4595D68027AC351A7454)
+## [**Link to full course**](https://www.udemy.com/course/flutter-com-mango/?referralCode=4595D68027AC351A7454)
 
-Essa aplicativo faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
+This application is part of the training of Professor Rodrigo Manguinho (Mango) on Udemy.
 
-O objetivo do treinamento é mostrar como criar um aplicativo com Flutter usando uma arquitetura bem definida e desacoplada, seguindo TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID e aplicando Design Patterns para resolver alguns problemas comuns.
+The objective of the training is to show how to create an application with Flutter using a well-defined and decoupled architecture, following TDD (test-oriented programming) as a working methodology, Clean Architecture to distribute responsibilities in layers, always following the principles of SOLID and applying Design Patterns to solve some common problems.
 <br /><br />
 
-## Contribua com esse Projeto <3
+## Contribute to this Project <3
 <a href='https://ko-fi.com/M4M265FO6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <br />
 
-## [**Link para a documentação da API**](http://fordevs.herokuapp.com/api-docs)
+## [**Link to API documentation**](http://fordevs.herokuapp.com/api-docs)
 
-> ## Princípios
+> ## Principles
 
 * Single Responsibility Principle (SRP)
 * Open Closed Principle (OCP)
@@ -43,18 +43,18 @@ O objetivo do treinamento é mostrar como criar um aplicativo com Flutter usando
 
 * Factory
 * Adapter
-* Composite
-* Decorator
+* composite
+* decorator
 * Dependency Injection
 * Abstract Server
 * Composition Root
 * Builder
-* Singleton
+* singleton
 * Observer
 * Strategy
 * AAA (Arrange, Act, Assert)
 
-> ## Metodologias e Designs
+> ## Methodologies and Designs
 
 * TDD
 * BDD
@@ -65,18 +65,18 @@ O objetivo do treinamento é mostrar como criar um aplicativo com Flutter usando
 * Dependency Diagrams
 * Use Cases
 
-> ## Bibliotecas e Ferramentas
+> ## Libraries and Tools
 
-* Flutter
+* flutter
 * Flutter Version Management
 * Http
-* Provider
+* provider
 * GetX
 * Equatable
-* Mockito
+* mockup
 * Mocktail
 * Faker
-* Meta
+* Goal
 * Git
 * Flutter Secure Storage
 * LocalStorage
@@ -84,18 +84,18 @@ O objetivo do treinamento é mostrar como criar um aplicativo com Flutter usando
 * Image Test Utils
 * Network Image Mock
 
-> ## Features do Dart/Flutter
+> ## Features of Dart/Flutter
 * Null Safety
 * Classes
 * Abstract Classes
 * Functions
-* Constants
-* Mixins
+* constants
+* Mixes
 * Extensions
 * Enums
 * Exceptions
-* Futures
-* Streams
+* futures
+* streams
 * Constructors
 * Async/Await
 * Stateless Widgets
@@ -104,13 +104,13 @@ O objetivo do treinamento é mostrar como criar um aplicativo com Flutter usando
 * Assets
 * App Icon
 
-> ## Features de Testes
+> ## Test Features
 
-* Testes Unitários
-* Testes de Widgets
-* Testes de Streams
-* Testes de Integração
-* Cobertura de Testes
+* Unitary tests
+* Widget Tests
+* Stream Tests
+* Integration Tests
+* Test Coverage
 * Test Doubles
 * Mocks
 * Stubs
